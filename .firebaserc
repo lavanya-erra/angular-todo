@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lerra-todo": {
+      "hosting": {
+        "angular-todo": [
+          "lerra-todo"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lerra-todo"
+  }
+}
